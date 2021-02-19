@@ -38,7 +38,7 @@
 
 | Currency  | Exchange Service |  
 | ---       | ---       |
-| GLOBAL    | <a href="https://azte.co/" target="_blank">Azteco [RECOMMENDED]</a> |
+| GLOBAL    | <a href="https://azte.co/" target="_blank">Azteco </a> |
 | GLOBAL    | <a href="https://hodlhodl.com/" target="_blank">Hodl Hodl </a> |
 | AUD       | <a href="https://amber.app/" target="_blank">Amber </a> |
 | AUD       | <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo </a> |
