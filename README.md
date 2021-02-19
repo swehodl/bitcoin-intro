@@ -32,6 +32,7 @@
 | Currency  | Exchange Service |  
 | ---       | ---       |
 | GLOBAL    | <a href="https://azte.co/" target="_blank">Azteco [RECOMMENDED]</a> |
+| GLOBAL    | <a href="https://hodlhodl.com/" target="_blank">Hodl Hodl </a> |
 | AUD       | <a href="https://amber.app/" target="_blank">Amber </a> |
 | AUD       | <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo </a> |
 | CAD       | <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a> |
@@ -102,7 +103,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a> (5m)
 2. If you only need a desktop wallet, simply install bitcoin core on a regular computer.
 3. If you use a mobile phone wallet (Samourai / Blue Wallet) you should make or buy an always-on node box.
-- See more at <a href="https://node.guide/" target="_blank">node.guide</a>.
+- See more at <a href="http://node.guide/" target="_blank">node.guide</a>.
 
 ##### Bitcoin-Core on a regular computer (Desktop Wallet Only)
 - Download <a href="https://bitcoincore.org/en/download/" target="_blank">Bitcoin Core</a>.
