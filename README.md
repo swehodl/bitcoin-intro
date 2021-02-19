@@ -1,4 +1,4 @@
-<!-- Version: 0.05 EN -->
+<!-- Version: 0.06 EN -->
 
 | <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a>
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> |
@@ -8,6 +8,13 @@
 - It's more engaging to use tools before reading a detailed explanation
 - Always keep full control of your bitcoin (use non-custodial tools)
 - Stay focused and avoid scams (use bitcoin-only tools & services)
+
+-----
+
+## Step 0. See the big picture
+*Aim: Understand why bitcoin is for you in <10 mins*
+
+1. Watch <a href="https://www.youtube-nocookie.com/embed/oubZGyDY4Dc" target="_blank">Bitcoin is for everyone</a> by Hello Bitcoin.
 
 -----
 
