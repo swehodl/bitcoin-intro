@@ -287,19 +287,21 @@ You should pre-fund this with some bitcoin to make it believable.
 
 If you split 24 seed words into 3 partial lists, you can recover the full list of ordered seed words with only 2 of the 3 partial lists, giving some redundancy.
 
-
 | Seed Words    | List A    | List B    | List C    | 
 | ---           | ---       | ---       | ---       |
 | 1 - 8         | X         |           |  X        |
 | 9 - 16        | X         | X         |           |
 | 17 - 24       |           | X         |  X        |
 
-This method is simple and can be done manually (unlike Shamir's Secret Sharing which requires code) but unlike SSS a partial list may be vulnerable to brute force attacks.
+Generally this approach is discouraged. We recommend that you follow best practice in the **Suggested Backup** section, and protect your seed words with a passphrase. 
 
-The relationship between number of revealed seed words and security against brute force attack is not linear, and it is possible to brute force 4 / 12 words (whereas it we do not believe that it is likely that someone will brute force 8 / 24 seed words).  
+If you do consider this then you should make yourself familiar with the trade-offs. The objective of this approach is to reduce the risk of theft. Should an attacker gain access to only one of the lists, he is unable to recover your funds.
 
-For this reason we only recommend doing this with a 24 word seed. 
-Ensure you number each seed word to make recovering the list easier
+This method is simple and can be done manually (unlike Shamir's Secret Sharing which requires code) but unlike SSS a partial list may be vulnerable to brute force attacks. The relationship between the number of revealed seed words and security against brute force attack is not linear, and it is possible to brute force 4 / 12 words. We do not believe that it is likely that someone will brute force 8 / 24 seed words but be aware that the smallest allowable number of seed words (as defined by BIP39) is 12.
+
+For this reason we would only suggest doing this with a 24 word seed. Ensure you number each seed word to make recovering the list easier.
+
+In summary, you are increasing physical security and redundancy at the cost of reduced digital security. 
 
 ## What is a HD Wallet?
 
