@@ -192,7 +192,7 @@ De manieren van Bitcoin kopen die in stap 2 beschreven zijn, zijn makkelijk in g
 | Voorbeelden           | BISQ / Vouchers       | Bittr                 | CashApp / Bull Bitcoin    |
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Installeer BISQ
+0. <a href="https://bisq.network/downloads/" target="_blank">Download</a> & Installeer BISQ
 1. Stel je lokale valuta in
 2. Klik bovenin op BUY BTC
 3. Maak een kooporder aan (Create offer to buy BTC with [...])

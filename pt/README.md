@@ -220,7 +220,7 @@ Embora os métodos explicados na etapa 2 sejam simples e fáceis para comprar bi
 
 ##### BISQ
 
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Baixe</a> & Instale BISQ.
+0. <a href="https://bisq.network/downloads/" target="_blank">Baixe</a> & Instale BISQ.
 1. Definir moeda local.
 2. Procure vendedores locais (Selecione o botão BUY BTC no topo ).
 3. Comprar de um vendedor local (Selecione Criar nova oferta para comprar BTC com ...).

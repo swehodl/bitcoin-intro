@@ -172,7 +172,7 @@ Uwaga: prowadzenie węzła przynosi korzyści tylko wtedy, gdy używasz węzła 
 Usługi w kroku 2 nie są prywatne (z wyjątkiem Azteco). Warto rozważyć bardziej prywatne opcje dalszego zakupu.
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Pobierz</a> i zainstaluj BISQ
+0. <a href="https://bisq.network/downloads/" target="_blank">Pobierz</a> i zainstaluj BISQ
 1. Ustaw lokalną walutę
 2. Poszukaj lokalnych sprzedawców (wybierz przycisk BUY BTC na górnej wstążce)
 3. Kup od lokalnego sprzedawcy (wybierz opcję Create new offer to buy BTC with ...)

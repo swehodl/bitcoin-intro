@@ -422,7 +422,7 @@
 
 <h5 id="bisq">موقع BISQ</h5>
 <ol>
-  <li><a href="https://bisq.network/downloads/Download" target="_blank">نَزِّل BISQ</a> ثم قم بتسطيبه وتثبيته. </li>
+  <li><a href="https://bisq.network/downloads/" target="_blank">نَزِّل BISQ</a> ثم قم بتسطيبه وتثبيته. </li>
   <li>حدد واختر عملتك المحلية.</li>
   <li>ابحث عن البائعين المحليين (اختر زر الشراء من الأعلى).</li>
   <li>قم بالشراء من البائع المحلي (اختر إنشاء عرض جديد لشراء البيتكوين بوساطة...).</li>

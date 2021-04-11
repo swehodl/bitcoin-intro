@@ -235,7 +235,7 @@ sind, lohnt es sich, mehr private Optionen für den weiteren Kauf in Betracht zu
 | Beispiele             | BISQ / Gutscheine      | Relai                  | CashApp / Bull Bitcoin  |
 
 ##### BISQ
-0. Lade dir <a href="https://bisq.network/downloads/Download" target="_blank">BISQ</a> herunter und installiere es.
+0. Lade dir <a href="https://bisq.network/downloads/" target="_blank">BISQ</a> herunter und installiere es.
 1. Wähle deine lokale Währung aus.
 2. Suche nach lokalen Verkäufern (Wähle die Schaltfläche BTC KAUFEN in der oberen Menüleiste).
 3. Kaufe bei dem ausgewählten lokalen Verkäufer (Wähle 'Neues Angebot erstellen', um BTC mit deiner lokalen Währung zu kaufen).

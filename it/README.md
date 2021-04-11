@@ -220,7 +220,7 @@ Nonostante i metodi spiegati nel Passo 2 siano un modo semplice di acquistare i 
 | Esempi                | BISQ / Voucher | Bittr          | CashApp / Bull Bitcoin |
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Scarica</a> & Installa BISQ
+0. <a href="https://bisq.network/downloads/" target="_blank">Scarica</a> & Installa BISQ
 1. Imposta la tua valuta locale
 2. Cerca un venditore locale (Seleziona il pulsante COMPRA BITCOIN in alto )
 3. Compra da un venditore locale (Seleziona Crea una nuova oferta per comprare bitcoin con ... )
