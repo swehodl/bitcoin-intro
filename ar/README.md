@@ -11,6 +11,7 @@
       <td><a href="https://bitcoin-intro.com/fi/">Finnish</a></td>
       <td><a href="https://bitcoin-intro.com/pt/">Português</a></td>
       <td><a href="https://bitcoin-intro.com/de/">German</a></td>
+      <td><a href="https://bitcoin-intro.com/pl/">Polski</a></td>
     </tr>
   </tbody>
 </table>
