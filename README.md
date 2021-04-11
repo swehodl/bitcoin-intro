@@ -1,4 +1,4 @@
-<!-- Version: 0.06 EN -->
+<!-- Version: 0.07 EN -->
 
 | <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a>
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> | <a href="/pl/">Polski</a> |
@@ -171,7 +171,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 The services in Step 2 are not private (except for Azteco, which is). It is worth considering more private options for further buying.
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
+0. <a href="https://bisq.network/downloads/" target="_blank">Download</a> & Install BISQ
 1. Set local currency
 2. Look for local sellers (Select BUY BTC button on top ribbon )
 3. Buy from local seller (Select Create new offer to buy BTC with ... )
