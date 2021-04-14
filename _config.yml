@@ -2,4 +2,9 @@ theme: jekyll-theme-slate
 title: bitcoin-intro
 tagline: start using bitcoin
 url: https://bitcoin-intro.com
-image: /bitcoin-intro.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /bitcoin-intro.png
