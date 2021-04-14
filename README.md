@@ -44,6 +44,7 @@
 | AUD       | <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo </a> |
 | CAD       | <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a> |
 | CHF       | <a href="https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html" target="_blank">SBB</a> | 
+| CHF       | <a href="https://relai.ch/" target="_blank">Relai</a> | 
 | EUR       | <a href="https://bitonic.nl/" target="_blank">Bitonic</a> | 
 | EUR       | <a href="https://relai.ch/" target="_blank">Relai</a> | 
 | EUR       | <a href="https://www.stackinsat.com/" target="_blank">Stackinsat</a> | 
