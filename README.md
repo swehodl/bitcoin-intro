@@ -3,11 +3,11 @@
 | <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a>
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> | <a href="/pl/">Polski</a> |
 
-###### Guiding Principles
-- Starting simply and improving is better than than not starting at all
-- It's more engaging to use tools before reading a detailed explanation
-- Always keep full control of your bitcoin (use non-custodial tools)
-- Stay focused and avoid scams (use bitcoin-only tools & services)
+###### Grundläggande principer
+- Att börja enkelt är bättre än att inte börja alls
+- Det är mer spännande att göra praktiskt än att läsa en detaljerad instruktion. 
+- Ha alltid full kontroll själv över dina bitcoin, låt inte tredjepartslösningar där du litar på någon annan att förvara dina bitcoin. 
+Var fokuserad, förstå vad du gör och akta dig för bedrägerier. Använd endast tjänster anpasade för enbart bitcoin.
 
 -----
 
